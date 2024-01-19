@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Data Analytics and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JaloliddinErkinovW?tab=repositories](https://github.com/JaloliddinErkinovW?tab=repositories)
-
 - ⚡ Also aspiring to learn **more about ML and AI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JaloliddinErkinovW?tab=repositories](https://github.com/JaloliddinErkinovW?tab=repositories)
 
 - 📫 How to reach me **jaloliddinerkinov04@gmail.com**
 
