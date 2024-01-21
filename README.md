@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/jaloliddin-erkinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaloliddin-erkinov" height="30" width="40" /></a>
 <a href="https://kaggle.com/jaloliddinerkinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jaloliddinerkinov" height="30" width="40" /></a>
 <a href="https://discord.gg/illusionw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="illusionw" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jaloliddinerkinov04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaloliddinerkinov04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
