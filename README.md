@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaloliddin Erkinov</h1>
-<h3 align="center">A passionate Data Analyst/Scientist</h3>
+<h3 align="center">A passionate Data Analyst/Data Scientist</h3>
 
 - 🌱 I’m currently learning **Data Analytics and Data Science**
 
